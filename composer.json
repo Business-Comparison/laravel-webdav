@@ -1,5 +1,5 @@
 {
-    "name": "pbmedia/laravel-webdav",
+    "name": "business-comparison/laravel-webdav",
     "type": "library",
     "description": "Laravel WebDAV Filesystem",
     "keywords": [
